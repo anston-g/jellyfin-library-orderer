@@ -1,0 +1,7 @@
+[Jelly]
+JELLY_APIKEY = aaaabbbbbbbcccccccccccccdddddddd
+JELLY_URLBASE = http://192.168.1.100:8096/
+
+[Order]
+LIBRARY_ORDER = Library Name A,Library Name B,Library NameC
+SKIP_USERS =
